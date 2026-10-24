@@ -230,3 +230,7 @@ that is not saved yet, feel free to jump in:
 4. Open a pull request describing what you changed and how you tested it.
 
 If you change the file format, bump `WorldCodec.VERSION` and keep older versions readable.
+
+## License
+
+SlimeWorld is released under the [MIT License](LICENSE). By contributing, you agree that your contributions are licensed under it too.
