@@ -1,0 +1,10 @@
+name: SlimeWorldTest
+version: 1.0.0
+main: fr.geeklegend.slimeworldtest.SlimeWorldTest
+description: Slime world test
+author: GeekLegend
+api-version: '26.2'
+libraries:
+  - com.github.luben:zstd-jni:1.5.7-24
+  - com.zaxxer:HikariCP:7.1.0
+  - com.mysql:mysql-connector-j:26.10.0
